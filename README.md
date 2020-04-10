@@ -20,3 +20,4 @@
   - [Python](https://github.com/NomadJohn/issue-blog/labels/Python)
   
 - 理论知识
+  - [计算机网络](https://github.com/NomadJohn/issue-blog/labels/计算机网络)
